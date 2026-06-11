@@ -1,0 +1,11 @@
+{
+  "entity.lightbuilddragon.light_build_dragon": "Light Build Dragon",
+  "item.lightbuilddragon.light_build_dragon_spawn_egg": "Light Build Dragon Spawn Egg",
+  "key.categories.lightbuilddragon": "Light Build Dragon",
+  "key.lightbuilddragon.fire_charge": "Shoot Fire Charge",
+  "key.lightbuilddragon.melee_attack": "Dragon Melee Attack",
+  "message.lightbuilddragon.mode.follow": "Light Build Dragon mode: Follow",
+  "message.lightbuilddragon.mode.wander": "Light Build Dragon mode: Wander",
+  "message.lightbuilddragon.sit": "Light Build Dragon is staying.",
+  "message.lightbuilddragon.stand": "Light Build Dragon is following."
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "Idle": { "loop": true, "animation_length": 1.0, "bones": {} },
+    "Walk": { "loop": true, "animation_length": 1.0, "bones": {} },
+    "Sprint": { "loop": true, "animation_length": 0.75, "bones": {} },
+    "Sprint Takeoff": { "loop": false, "animation_length": 1.0, "bones": {} },
+    "fly": { "loop": true, "animation_length": 1.0, "bones": {} },
+    "Glide": { "loop": true, "animation_length": 1.0, "bones": {} },
+    "Dive": { "loop": true, "animation_length": 1.0, "bones": {} },
+    "Sit": { "loop": true, "animation_length": 1.0, "bones": {} }
+  }
+}

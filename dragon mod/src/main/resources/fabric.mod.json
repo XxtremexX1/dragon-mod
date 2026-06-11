@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "lightbuilddragon",
+  "version": "${version}",
+  "name": "Light Build Dragon",
+  "description": "Adds a tamable, rideable Light Build Dragon.",
+  "authors": [
+    "Owner"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.owner.lightbuilddragon.LightBuildDragonMod"
+    ],
+    "client": [
+      "com.owner.lightbuilddragon.client.LightBuildDragonClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "~${minecraft_version}",
+    "java": ">=17",
+    "geckolib": "*"
+  }
+}
